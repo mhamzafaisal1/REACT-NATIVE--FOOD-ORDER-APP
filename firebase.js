@@ -2,7 +2,7 @@ import firebase from "firebase";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAtS1pAprOZtT6jm4JxXCZcA3V5KX9m2ZY",
+  
   authDomain: "bagelsandpizza.firebaseapp.com",
   projectId: "bagelsandpizza",
   storageBucket: "bagelsandpizza.appspot.com",
